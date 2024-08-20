@@ -1,5 +1,7 @@
-pakage main
+package main
+
 import "fmt"
+
 fuc main(){
-  fmt.Println("Hello, World")
+  fmt.Println("Hello, World!")
 }
